@@ -1,4 +1,4 @@
-package personal
+package cue-personal
 
 import(
   "universe.dagger.io/alpine"
